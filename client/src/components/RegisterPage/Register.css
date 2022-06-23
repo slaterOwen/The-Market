@@ -1,0 +1,22 @@
+.Title {
+    font-size: 32px;
+    text-align: center;
+}
+
+.box {
+    border: 3px solid black;
+    text-align: center;
+    margin: 0 35%;
+    padding: 0 10px;
+    padding-bottom: 20px;
+    padding-top: 2px;
+    margin-bottom: 50px;
+}
+
+.Log_in {
+    text-align: center;
+}
+
+.input {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,6 @@
+{
+  "api_base": {
+    "development": "http://127.0.0.1:5000/",
+    "imgur": "https://api.imgur.com/3/image"
+  }
+}

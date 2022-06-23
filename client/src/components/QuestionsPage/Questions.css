@@ -1,0 +1,12 @@
+.questionsBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    border: 2px solid grey;
+    margin: 3rem 15%;
+    background-color: rgb(200, 200, 200);
+    border-radius: 25px;
+}
